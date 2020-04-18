@@ -47,7 +47,7 @@ then
           echo ' Sedang Membuka Portal ...' | lolcat -a -d 10
           sleep 2
           termux-fix-shebang mulai.sh
-          termux-open-url https://my-phone-finder.com
+          termux-open-url https://imei-tracker.com
           sleep 1
           echo -n "\033[32m Ulangi Program ? (y/t) : \033[0m"$program
           read program;
